@@ -13,7 +13,7 @@ Orientador e contribuidor Adriano de Freitas Fernadnes, Doutor em Física Biomol
 
 # 🔐 Segurança da Informação para Empresas  
 
-Este repositório contém um **plano completo** para implementação de Segurança da Informação (SI) baseado nas **normas ISO 27001, ISO 27002 e 27005**.  
+Este repositório contém um **plano completo** para implementação de Segurança da Informação (SI) baseado nas **normas ISO 27001, ISO 27002 e ISO 27005**.  
 
 ## 📌 Estrutura do Repositório  
 
